@@ -39,7 +39,7 @@ Faktur est un logiciel de facturation con&ccedil;u pour les ind&eacute;pendants,
 
 ### S&eacute;curit&eacute;
 
-Pour signaler une vuln&eacute;rabilit&eacute;, &eacute;crivez &agrave; **contact@fakturapp.cc**. Ne publiez pas de rapport public avant correction.
+Pour signaler une vuln&eacute;rabilit&eacute;, &eacute;crivez &agrave; **support@fakturapp.cc**. Ne publiez pas de rapport public avant correction.
 
 Voir la [politique de s&eacute;curit&eacute;](https://github.com/faktur/fakturapp/blob/main/SECURITY.md) pour les d&eacute;tails de l'architecture cryptographique.
 
